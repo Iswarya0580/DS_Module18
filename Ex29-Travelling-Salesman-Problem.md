@@ -12,9 +12,9 @@ To write a C Program to implement Travelling Salesman Problem for finding shorte
 ```
 ## Program:
 
-Program to implement Travelling Salesman Problem for finding shortest path
-DEVELOPED BY: ISWARYA P
-REGISTER NO:212223230082
+### Program to implement Travelling Salesman Problem for finding shortest path
+#### DEVELOPED BY: ISWARYA P
+#### REGISTER NO:212223230082
 ```
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
