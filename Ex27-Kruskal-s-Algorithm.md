@@ -4,6 +4,7 @@
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
 
 ## Algorithm
+```
 1.Initialize Variables and Data Structures
 2.Read Input
 3.Input number of vertices n.
@@ -13,7 +14,7 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 7.Update Costs and MST Info
 8.Print selected edge and update mincost.
 9.Output Final Result  
-
+```
 ## Program:
 
 ### Program to implement Kruskal's Algorithm
